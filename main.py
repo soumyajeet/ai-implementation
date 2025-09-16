@@ -13,11 +13,8 @@ def chat_template_res():
     data = chat_prompt_template.chat_history()
     print(data)
 
-def embedding_call():
-    data = embeddings_demo.get_embedding()
-    print(data)
     
 
 
 if __name__ == "__main__":
-    embedding_call()
+    chat_template_res()
