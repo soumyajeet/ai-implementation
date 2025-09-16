@@ -9,6 +9,7 @@ dependencies = [
     "fastapi>=0.116.1",
     "isort>=6.0.1",
     "langchain>=0.3.27",
+    "langchain-community>=0.3.29",
     "langchain-openai>=0.3.33",
     "langchain-openapi>=0.1.1",
     "langchain-tavily>=0.2.11",

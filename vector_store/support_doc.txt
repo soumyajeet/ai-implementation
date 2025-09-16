@@ -1,0 +1,23 @@
++-----------------------------------+--------------------------------------------------------------------------+
+| Job Title                         | Required Skills                                                          |
++-----------------------------------+--------------------------------------------------------------------------+
+| Frontend Engineer (React)         | React.js, JavaScript (ES6+), HTML, CSS, Redux, REST APIs, Unit Testing   |
+| Backend Engineer (Node.js)        | Node.js, Express.js, REST APIs, MySQL/Postgres, Authentication, Docker,  |
+|                                   | CI/CD                                                                    |
+| Full-Stack Developer              | React.js, Node.js, TypeScript, SQL, NoSQL, AWS (EC2/S3), Git             |
+| Data Engineer                     | Python, ETL, SQL, Airflow, Data Warehousing, Spark, AWS Redshift         |
+| Machine Learning Engineer         | Python, PyTorch/TensorFlow, Model Deployment, ML Pipelines, Data Cleaning|
+|                                   | Docker, MLOps                                                            |
+| DevOps Engineer                   | Kubernetes, Docker, Terraform, CI/CD (Jenkins/GitHub Actions), Prometheus|
+|                                   | Linux, AWS                                                               |
+| Mobile Developer (React Native)   | React Native, JavaScript/TypeScript, iOS/Android fundamentals, REST APIs,|
+|                                   | Redux, Debugging, Testing                                                |
+| Product Manager (SaaS)            | Product Strategy, Roadmapping, Stakeholder Management, Metrics & Analytics|
+|                                   | User Research, Agile, Prioritization                                     |
+| UX/UI Designer                    | Figma/Sketch, User Research, Prototyping, Visual Design, Interaction     |
+|                                   | Design, Design Systems, Usability Testing                                |
+| QA Engineer (Automation)          | Test Automation (Selenium, Playwright), API Testing, Test Plans, CI      |
+|                                   | Integration, Regression Testing, Python/JS, Performance Testing          |
+| Cloud Solutions Architect         | AWS/GCP/Azure, Cloud Architecture, Networking, Security Best Practices,  |
+|                                   | Cost Optimization, IaC (Terraform), Microservices                        |
++-----------------------------------+--------------------------------------------------------------------------+
