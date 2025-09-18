@@ -7,7 +7,7 @@ from langchain_community.agent_toolkits.load_tools import load_tools
 from langchain.prompts import ChatPromptTemplate, MessagesPlaceholder
 import wikipedia
 import duckduckgo_search
-from dotenv import load_dotenv
+from dotenv import load_dotenv 
 
 
 
@@ -27,28 +27,3 @@ response = agent_executor.invoke({"input": task})
 
 if response:
     print(response["output"])
-
-
-# chat_template = ChatPromptTemplate.from_messages([
-#     ("system",""" Answer the following questions as best you can. You have access to the following tools:
-
-#         {tools}
-
-#         Use the following format:
-
-#         Question: the input question you must answer
-#         Thought: you should always think about what to do
-#         Action: the action to take, should be one of [{tool_names}]
-#         Action Input: the input to the action
-#         Observation: the result of the action
-#         ... (this Thought/Action/Action Input/Observation can repeat N times)
-#         Thought: I now know the final answer
-#         Final Answer: the final answer to the original input question
-
-#         Begin!
-
-#         Question: {input}
-#         Thought:{agent_scratchpad}
-#     """),
-#     ("human", f"{input}")
-#     ])
