@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "black>=25.1.0",
+    "duckduckgo-search>=8.1.1",
     "fastapi>=0.116.1",
     "isort>=6.0.1",
     "langchain>=0.3.27",
@@ -18,4 +19,5 @@ dependencies = [
     "python-dotenv>=1.1.1",
     "streamlit>=1.49.1",
     "uuid>=1.30",
+    "wikipedia>=1.4.0",
 ]
